@@ -1,9 +1,9 @@
 {
-  "name": "Quick Quotes",
+  "name": "Quick Quoter",
   "author": {
     "name": "Avi Warner",
     "email": "aviwarner@gmail.com",
-    "url": "https://www.aviwarner.com/"
+    "url": "https://www.aviwarner.com"
   },
   "defaultLocale": "en",
   "private": true,
